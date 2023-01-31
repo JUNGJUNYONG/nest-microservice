@@ -1,14 +1,12 @@
-[submodule "gateway"]
-	path = gateway
-	url = https://github.com/JUNGJUNYONG/nest-microservice-gateway.git
-	branch=master
-[submodule "chat"]
-	path = chat
-	url = https://github.com/JUNGJUNYONG/nest-microservice-chat.git
-	branch=master
-[submodule "user"]
-	path = user
-	url = https://github.com/JUNGJUNYONG/nest-microservice-user.git
 [submodule "auth"]
-	path = auth
+	path = nest-microservice-auth
 	url = https://github.com/JUNGJUNYONG/nest-microservice-auth.git
+[submodule "user"]
+	path = nest-microservice-user
+	url = https://github.com/JUNGJUNYONG/nest-microservice-user.git
+[submodule "gateway"]
+	path = nest-microservice-gateway
+	url = https://github.com/JUNGJUNYONG/nest-microservice-gateway.git
+[submodule "chat"]
+	path = nest-microservice-chat
+	url = https://github.com/JUNGJUNYONG/nest-microservice-chat.git
